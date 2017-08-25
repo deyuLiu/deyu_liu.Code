@@ -31,3 +31,4 @@ Pedestrian detection on **Raspberry Pi** using **Neural Nets**
 
 ##Sample Result
 [Image](/Report/result.png)
+£¬£¬£¬£¬£¬£¬
